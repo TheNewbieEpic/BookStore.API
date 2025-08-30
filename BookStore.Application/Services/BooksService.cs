@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
-using BookStore.Core.Abstractions;
+﻿using BookStore.Core.Abstractions;
 using BookStore.Core.Models;
 
 namespace BookStore.Application.Services
